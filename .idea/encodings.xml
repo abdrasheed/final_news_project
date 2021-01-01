@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/.env" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/API/apinewscontroller.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/API/newscontroller.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/auth_controller.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/frontsite_controller.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/User.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/news.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/factories/UserFactory.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/migrations/2020_12_08_115444_create_news_table.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/seeds/users.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/auth/loginAdmin.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/dashboard/layout/menu.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/dashboard/layout/message.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/frontsite/home.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/frontsite/layouts/header.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/frontsite/layouts/master.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/frontsite/single_news.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/routes/api/api-v1.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/routes/api/api-v2.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/routes/web.php" charset="UTF-8" />
+    <file url="PROJECT" charset="windows-1256" />
+  </component>
+</project>
